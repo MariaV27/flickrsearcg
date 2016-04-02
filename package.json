@@ -1,0 +1,24 @@
+{
+  "name": "wk21-3",
+  "version": "1.0.0",
+  "description": "angular",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaV27/flickrsearcg.git"
+  },
+  "author": "Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaV27/flickrsearcg/issues"
+  },
+  "homepage": "https://github.com/MariaV27/flickrsearcg#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "morgan": "^1.7.0"
+  }
+}
